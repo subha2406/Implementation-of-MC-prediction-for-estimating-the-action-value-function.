@@ -139,7 +139,6 @@ for key in Q:
 
 
 
----
 
 ## Result
 
